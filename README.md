@@ -6,15 +6,12 @@
 ## Оглавление
 - [Требования](#-требования)
 - [Установка](#-установка)
-- [Структура проекта](#-структура-проекта)
-- [Настройка виджетов Termux:Widget](#-настройка-виджетов-termuxwidget)
-- [Создание shell-скриптов для виджетов](#-создание-shell-скриптов-для-виджетов)
 - [Использование](#-использование)
 
 ## Требования
 
 - **Android 7.0+** (API 24+)
-- **Termux, Termux:Widget** (устанавливать только с F-Droid
+- **Termux, Termux:Widget** (устанавливать только с F-Droid)
 - **Python 3.10+** (поставляется с Termux)
 
 ## Установка
@@ -23,5 +20,19 @@
 
 # Обновите пакеты и установите зависимости
 pkg update && pkg upgrade
+pkg install python git clang libffi openssl rust
 
-!!!в процессе написания!!!
+# Клонируйте репозиторий в домашнюю директорию Termux
+
+# Установите зависимости
+pip install -r requirements.txt
+
+# Убедитесь, что скрипты исполняемые
+chmod +x scripts/*.py
+chmod +x widgets/*.sh
+
+# Настройте права для директорий виджетов (обязательно для Termux:Widget)
+mkdir -p ~/.shortcuts ~/.shortcuts/tasks ~/.shortcuts/icons
+chmod 700 -R ~/.shortcuts
+
+## Использование
