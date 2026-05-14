@@ -22,7 +22,7 @@
 pkg update && pkg upgrade
 pkg install python git clang libffi openssl rust
 # Клонируйте репозиторий в домашнюю директорию Termux
-# Проверить файлы прописать свои пути
+# Проверить все файлы config и run_tgbot.sh и прописать свои пути и токены
 # Установите зависимости
 pip install -r requirements.txt
 
