@@ -1,8 +1,3 @@
-<img width="1080" height="2316" alt="5" src="https://github.com/user-attachments/assets/3f3822eb-9dae-4fc3-bc7e-908b04173523" />
-<img width="1080" height="2316" alt="4" src="https://github.com/user-attachments/assets/ef228eb6-665b-47cd-924c-1a4d190f0f71" />
-<img width="1080" height="2316" alt="3" src="https://github.com/user-attachments/assets/357e1822-4839-4c05-b6ea-5d984b67f205" />
-<img width="1080" height="2316" alt="2" src="https://github.com/user-attachments/assets/c2cb9a4c-fd66-489c-92aa-7d41586465d9" />
-<img width="1080" height="2316" alt="1" src="https://github.com/user-attachments/assets/129255ad-4dc3-4623-8dfe-8e0cd75b829a" />
 # FSB - FuckSpamBot
 Загрузчик видео с ютуб.
 Тот случай когда устал от рекламы в аналогичных ботах настолько, что начал изучать программирование и делать своих ботов)
