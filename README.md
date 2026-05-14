@@ -36,9 +36,12 @@ chmod 700 -R ~/.shortcuts
 
 ## Использование
 # Работает как по ссылке с ютуба, предлагая скачать в качестве 360, 480, 720, 1080, аудио:
+
 <img width="1080" height="2316" alt="1" src="https://github.com/user-attachments/assets/ea389213-0ea2-4441-a224-e9604f0c2081" />
 <img width="1080" height="2316" alt="2" src="https://github.com/user-attachments/assets/ea8955c8-b472-4ea0-ad63-da035134878e" />
-# Так и по алгоритму поиска:
+
+# Так и по алгоритму поиска, выдавая первые 10 популярных результатов:
+
 <img width="1080" height="2316" alt="3" src="https://github.com/user-attachments/assets/32c2d55a-1b28-4e0f-ac5a-5195907ce5cd" />
 <img width="1080" height="2316" alt="4" src="https://github.com/user-attachments/assets/478b40ff-c268-422b-b273-b3f5e6e0f4d4" />
 <img width="1080" height="2316" alt="5" src="https://github.com/user-attachments/assets/9977bee1-9428-4e3f-96f1-8bafd2e0d25d" />
